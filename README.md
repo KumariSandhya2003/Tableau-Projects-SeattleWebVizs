@@ -1,4 +1,4 @@
-# Tableau-Projects-SeattleWebVizs-
+# Tableau-Projects-SeattleWebVizs- Summary & Observations
 
 1 . Top 10 pages by sum of pageviews : The most viewed pages are sort of informing about Seattle services portals such as fire/911, waiting times, pay my bill, visiting Seattle, employment to the people of the Seattle city.
 2. Top ten pages with most AvgTimeonPage: On the other hand, top ten pages with most average time spent are the pages full of functionality such as logging into one’s account and pay dues, check current status or file a new application etc. Therefore, people are spending more time on these pages in comparison to the default page of respective pages.
